@@ -4,6 +4,15 @@ Jenkins is a powerful automation tool. Used in production servers almost everywh
 
 But again, not every problem can be solved by the same solution. Hence, We have come up with our own container image of Jenkins.
 
+## Built Docker Image : 
+[Jenkins](https://hub.docker.com/r/vishalgorai/jenkins-upon-ubuntu)
 
-Contributors : 
+
+## Docker Command : 
+```
+$ docker pull vishalgorai/jenkins-upon-ubuntu
+```
+## Contributors : 
 [Saksham Kapoor](https://github.com/sk99sk)
+
+#### Note : The project is currently under development.
